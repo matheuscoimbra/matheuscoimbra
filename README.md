@@ -4,7 +4,7 @@
 </h4>
 
 <p align="center">
-  Java | JavaScript | Flutter | SQL | Spring Booot | Quarkus | MongoDB
+  Java | JavaScript | Flutter | SQL | Spring Booot | Quarkus | VueJS | MongoDB
 </p>
 
 <p align="center">
