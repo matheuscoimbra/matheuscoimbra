@@ -8,14 +8,7 @@
 </p>
 
 <p align="center">
- 
-  <a
-    href="https://web.whatsapp.com/send?phone=+5598983280248" 
-    alt="WhatsApp"
-    target="blank"
-  >
-    <img src="https://img.shields.io/badge/-WhatsApp-28A745?style=flat-square&logo=WhatsApp&logoColor=white" />
-  </a>
+
   <a
     href="mailto:matheus-joker@hotmail.com" 
     alt="Outlook"
@@ -33,9 +26,6 @@
  
 </p>
 
-<h4 align="center">
-  Hey, I'm Osvaldo! 👋
-</h4>
 <p align="center">
   📌 Morando em <b>São Luis</b>, <b>Maranhão</b>, <b>Brasil</b> &nbsp; 
 </p>
